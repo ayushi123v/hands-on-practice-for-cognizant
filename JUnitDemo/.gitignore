@@ -1,1 +1,33 @@
+
+# Maven build folder
 target/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
