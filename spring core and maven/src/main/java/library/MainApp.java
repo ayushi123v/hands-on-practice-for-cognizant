@@ -1,10 +1,9 @@
-package com.library;
+package library;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.library.repository.BookRepository;
-import com.library.service.BookService;
+import service.BookService;
 
 public class MainApp {
 
@@ -16,11 +15,7 @@ public class MainApp {
         BookService service =
                 context.getBean("bookService", BookService.class);
 
-        BookRepository repository =
-                context.getBean("bookRepository", BookRepository.class);
-
         service.displayService();
-        repository.displayRepository();
 
         ((ClassPathXmlApplicationContext) context).close();
     }
