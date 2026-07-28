@@ -1,0 +1,50 @@
+
+1. What is Generative AI?
+Generative AI is a type of Artificial Intelligence that creates new content such as text, images, audio, video, and code by learning patterns from existing data.
+2. AI vs ML vs Deep Learning vs Generative AI
+• AI: Makes machines intelligent.
+• Machine Learning (ML): Learns from data.
+• Deep Learning (DL): Uses neural networks with many layers.
+• Generative AI: Creates new content using trained models.
+3. How Generative AI Works
+1. Collect Data
+2. Train the Model
+3. Learn Patterns
+4. Generate New Content based on prompts
+4. Popular Generative AI Models
+• ChatGPT (Text)
+• Gemini
+• Claude
+• GitHub Copilot (Code)
+• DALL·E (Images)
+• Stable Diffusion (Images)
+5. Applications
+• Content Writing
+• Code Generation
+• Chatbots
+• Image & Video Creation
+• Translation
+• Summarization
+6. Advantages
+• Saves time
+• Improves productivity
+• Automates repetitive tasks
+• Helps in learning and creativity
+7. Limitations
+• May generate incorrect information (Hallucinations)
+• Depends on training data
+• Privacy and security concerns
+• Bias in responses
+8. Prompt Engineering
+Prompt Engineering means writing clear and specific instructions to get better AI responses.
+Tips:
+• Be specific
+• Give context
+• Mention output format
+• Ask step-by-step if needed
+9. Responsible AI
+• Protect user privacy
+• Avoid biased outputs
+• Verify AI-generated content
+• Use AI ethically
+
