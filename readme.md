@@ -1,71 +1,43 @@
-# Hands-on Practice for Cognizant
+# Cognizant Deep Skilling
 
-This repository contains my solutions for the **Cognizant Digital Nurture 5.0** hands-on exercises. Each folder represents a specific module and includes the corresponding source code, Maven configuration, and supporting files.
+This repository contains my solutions, notes, and hands-on exercises completed as part of the Cognizant Deep Skilling Program.
 
----
+## Modules
+
+- Algorithms & Data Structures
+- Design Patterns & Principles
+- Spring Core & Maven
+- Spring REST
+- Spring Data JPA & Hibernate
+- PL/SQL
+- React
+- Docker
+- DevOps
+- CI/CD
+- Cloud Fundamentals
+- Generative AI Fundamentals
+- Microservices
+- SLF4J Logging Framework
+- JUnit
 
 ## Repository Structure
 
-```text
-hands-on-practice-for-cognizant
-│
-├── Algorithms_Data Structures/
-│   ├── Financial-Forecasting-exercise/
-│   └── E-Commerce-Search-Function/
-│
-├── design and principle pattern/
-│   ├── Exercise-1-Singleton-Pattern/
-│   ├── Exercise-2/
-│   └── Exercise-3-Builder-Pattern/
-│
-├── JUnitDemo/
-│   ├── Assertions/
-│   ├── Test Cases/
-│   ├── Mockito Examples/
-│   └── JUnit 5 Exercises/
-│
-├── SLF4J logging framework/
-│   └── Logging Examples/
-│
-├── pl_sql/
-│   ├── Control Structures/
-│   └── Stored Procedures/
-│
-├── spring core and maven/
-│   ├── Exercise 1 - Spring Core Configuration/
-│   ├── Exercise 2 - Dependency Injection/
-│   └── Exercise 4 - Maven Project Configuration/
-│
-├── spring-data-hibernate/
-│   ├── Difference between JPA, Hibernate & Spring Data JPA/
-│   └── Spring Data JPA/
-│
-├── spring-rest/
-│   ├── CountryBasedOnCountryCode/
-│   ├── CountryWebService/
-│   ├── JWT-Handson/
-│   ├── RestFulWebService/
-│   ├── SpringCore/
-│   └── SpringWebUsingMaven/
-│
-└── .gitignore
-```
+Each folder contains:
+- Hands-on exercises according to the given questions in excelSS
 
----
-
-## Technologies Used
+## Technologies
 
 - Java
-- Maven
-- Spring Core
 - Spring Boot
-- Spring REST
-- Spring Data JPA
-- Hibernate
-- JUnit 5
-- Mockito
-- SLF4J
-- PL/SQL
+- Maven
 - Git & GitHub
+- Docker
+- Jenkins
+- SQL
+- React
+- Cloud
+- DevOps
 
----
+## Purpose
+
+This repository is maintained for learning, practice, and interview preparation during the Cognizant Deep Skilling Program.
