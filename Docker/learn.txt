@@ -1,0 +1,45 @@
+Docker – Important Notes (Cognizant Preparation)
+1. What is Docker?
+Docker is a containerization platform that packages an application with its dependencies into a container. Containers run consistently on any system.
+2. Why Docker?
+• Eliminates 'works on my machine' issues
+• Lightweight compared to Virtual Machines
+• Fast deployment
+• Easy scalability and portability
+3. Key Concepts
+• Image: Blueprint of an application.
+• Container: Running instance of an image.
+• Dockerfile: File containing instructions to build an image.
+• Docker Hub: Online repository to store and download images.
+• Volume: Persistent storage.
+• Network: Communication between containers.
+4. Image vs Container
+Image = Template (Read-only)
+Container = Running application created from an image.
+5. Docker Architecture
+Client → Docker Daemon → Images/Containers
+Docker Client sends commands, Docker Daemon executes them.
+6. Important Commands
+docker --version
+docker pull <image>
+docker images
+docker run <image>
+docker ps
+docker ps -a
+docker stop <container>
+docker start <container>
+docker rm <container>
+docker rmi <image>
+docker build -t app .
+7. Dockerfile Example
+FROM openjdk:17
+COPY app.jar app.jar
+ENTRYPOINT ["java","-jar","app.jar"]
+8. Docker in CI/CD
+Code → Build → Create Docker Image → Test → Push Image → Deploy Container
+9. Advantages
+• Portability
+• Isolation
+• Faster startup
+• Efficient resource usage
+• Easy deployment
