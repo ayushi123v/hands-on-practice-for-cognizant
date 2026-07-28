@@ -1,0 +1,31 @@
+CI/CD Basics – Cognizant GitHub Notes
+CI/CD = Continuous Integration + Continuous Delivery/Deployment
+
+1. What is CI?
+Continuous Integration (CI) means developers frequently merge code into a shared repository. Every commit triggers an automatic build and testing process so bugs are detected early.
+2. What is CD?
+Continuous Delivery (CD) prepares the application for release automatically after successful CI.
+Continuous Deployment goes one step further and deploys the application to production automatically.
+3. CI/CD Pipeline
+Code → Build → Test → Package → Deploy → Monitor
+4. Benefits
+•	Early bug detection
+•	Faster software delivery
+•	Less manual work
+•	Improved code quality
+•	Reliable deployments
+5. Popular CI/CD Tools
+•	Git & GitHub – Version Control
+•	Jenkins – Automation Server
+•	Maven/Gradle – Build Tools
+•	JUnit – Testing
+•	Docker – Containerization
+•	Kubernetes – Container Orchestration
+•	GitHub Actions / GitLab CI – CI/CD Pipelines
+6. Typical Workflow
+1. Developer writes code.
+2. Pushes code to GitHub.
+3. CI pipeline builds the project.
+4. Automated tests run.
+5. If tests pass, application is packaged.
+6. CD deploys the application to staging/production.
