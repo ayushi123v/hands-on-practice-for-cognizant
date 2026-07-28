@@ -1,0 +1,35 @@
+
+1. What is DevOps?
+DevOps is a software development approach that combines Development (Dev) and Operations (Ops) to automate the software development lifecycle and deliver applications faster with better quality.
+2. Goals of DevOps
+• Faster software delivery
+• Continuous Integration & Continuous Deployment (CI/CD)
+• Better collaboration
+• Automation
+• High-quality software
+3. DevOps Lifecycle
+Plan → Develop → Build → Test → Release → Deploy → Operate → Monitor
+4. Important DevOps Tools
+• Git – Version Control
+• GitHub – Code Repository
+• Maven – Build Tool
+• Jenkins – CI/CD Automation
+• Docker – Containerization
+• Kubernetes – Container Orchestration
+• SonarQube – Code Quality
+• JUnit – Testing
+5. CI vs CD
+CI (Continuous Integration): Automatically build and test code after every commit.
+CD (Continuous Delivery/Deployment): Automatically prepare or deploy the application.
+6. Why DevOps?
+• Faster releases
+• Fewer bugs
+• Improved collaboration
+• Automated testing & deployment
+• Better customer satisfaction
+7. Benefits
+• Reduced manual work
+• Reliable deployments
+• Easy scalability
+• Quick bug fixing
+• Continuous monitoring

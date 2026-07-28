@@ -1,4 +1,4 @@
-Docker – Important Notes (Cognizant Preparation)
+
 1. What is Docker?
 Docker is a containerization platform that packages an application with its dependencies into a container. Containers run consistently on any system.
 2. Why Docker?

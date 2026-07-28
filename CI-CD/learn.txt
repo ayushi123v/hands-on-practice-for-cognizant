@@ -1,5 +1,4 @@
-CI/CD Basics – Cognizant GitHub Notes
-CI/CD = Continuous Integration + Continuous Delivery/Deployment
+
 
 1. What is CI?
 Continuous Integration (CI) means developers frequently merge code into a shared repository. Every commit triggers an automatic build and testing process so bugs are detected early.
