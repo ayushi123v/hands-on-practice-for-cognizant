@@ -1,0 +1,36 @@
+
+1. What is Cloud Computing?
+Cloud Computing is the delivery of computing services such as servers, storage, databases, networking, and software over the Internet instead of using local computers.
+2. Why Cloud?
+• Pay only for what you use
+• Easy scalability
+• High availability
+• Reduced infrastructure cost
+• Access from anywhere
+3. Cloud Service Models
+• IaaS (Infrastructure as a Service): Virtual machines, storage, networking.
+• PaaS (Platform as a Service): Platform to build and deploy applications.
+• SaaS (Software as a Service): Ready-to-use software over the internet.
+4. Cloud Deployment Models
+• Public Cloud
+• Private Cloud
+• Hybrid Cloud
+• Community Cloud
+5. Popular Cloud Providers
+• Amazon Web Services (AWS)
+• Microsoft Azure
+• Google Cloud Platform (GCP)
+6. Key Features
+• On-demand self-service
+• Broad network access
+• Resource pooling
+• Rapid elasticity
+• Measured service
+7. Advantages
+• Cost-effective
+• Scalable
+• Reliable
+• Secure
+• Automatic updates & backup
+8. Cloud in DevOps
+Developers build applications, CI/CD pipelines test them, and cloud platforms host and scale the applications.
